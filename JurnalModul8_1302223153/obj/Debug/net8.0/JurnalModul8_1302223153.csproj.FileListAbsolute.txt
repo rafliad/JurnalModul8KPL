@@ -1,0 +1,14 @@
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\bin\Debug\net8.0\JurnalModul8_1302223153.exe
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\bin\Debug\net8.0\JurnalModul8_1302223153.deps.json
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\bin\Debug\net8.0\JurnalModul8_1302223153.runtimeconfig.json
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\bin\Debug\net8.0\JurnalModul8_1302223153.dll
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\bin\Debug\net8.0\JurnalModul8_1302223153.pdb
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\obj\Debug\net8.0\JurnalModul8_1302223153.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\obj\Debug\net8.0\JurnalModul8_1302223153.AssemblyInfoInputs.cache
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\obj\Debug\net8.0\JurnalModul8_1302223153.AssemblyInfo.cs
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\obj\Debug\net8.0\JurnalModul8_1302223153.csproj.CoreCompileInputs.cache
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\obj\Debug\net8.0\JurnalModul8_1302223153.dll
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\obj\Debug\net8.0\refint\JurnalModul8_1302223153.dll
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\obj\Debug\net8.0\JurnalModul8_1302223153.pdb
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\obj\Debug\net8.0\JurnalModul8_1302223153.genruntimeconfig.cache
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\obj\Debug\net8.0\ref\JurnalModul8_1302223153.dll
