@@ -12,3 +12,4 @@ C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_130
 C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\obj\Debug\net8.0\JurnalModul8_1302223153.pdb
 C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\obj\Debug\net8.0\JurnalModul8_1302223153.genruntimeconfig.cache
 C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\obj\Debug\net8.0\ref\JurnalModul8_1302223153.dll
+C:\Users\RAFLI\Downloads\Percodingan\C#\JurnalModul8_1302223153\JurnalModul8_1302223153\obj\Debug\net8.0\JurnalModul8_1302223153.sourcelink.json
